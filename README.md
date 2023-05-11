@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan José Eusebio</h1>
 <h3 align="center">A passionate frontend developer from Mexico, I like developing in React and I am currently developing apps in Ionic-React.</h3>
 
-- 🔭 I’m currently working on [Feldbit and dum](https://github.com/AresNative/Dum.git)
+- 🔭 I’m currently working on [dum](https://github.com/AresNative/Dum.git)
 
 - 🌱 I’m currently learning **python and swift**
 
