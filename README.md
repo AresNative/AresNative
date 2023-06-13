@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan josé eusebi r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan josé eusebi r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-josé-eusebi-r-a6aaa8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan josé eusebi r" height="30" width="40" /></a>
 <a href="https://discord.gg/809524532091158561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="809524532091158561" height="30" width="40" /></a>
 </p>
 
