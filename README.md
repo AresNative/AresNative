@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juanerpgr@gmail.com**
 
-- ⚡ Fun fact **I started at the age of 16 to develop**
+- ⚡ Fun fact **I started developing software at the age of 16**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
