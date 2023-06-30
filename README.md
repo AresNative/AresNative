@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dum](https://github.com/AresNative/Dum.git)
 
-- 🌱 I’m currently learning **swift, ruby and c**
+- 🌱 I’m currently learning **swift, python and c**
 
 - 💬 Ask me about **react, angular, typescript, js, css, scss, php, java and sql**
 
