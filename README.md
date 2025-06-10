@@ -1,15 +1,11 @@
 <h1 align="center">Hello! 👋, I am Juan José Eusebio</h1>
 <h3 align="center">I am a passionate full stack developer from Mexico, I like to develop in React and I am currently developing applications in Ionic-React but I also know PHP, Java, Angular and other languages and frameworks.</h3>
 
-- 🔭 I’m currently working on [Dum](https://github.com/AresNative/Dum.git)
+- 🔭 I’m currently working on [Mercado Liz]([https://github.com/AresNative/Dum.git](https://mercadosliz.com/))
 
-- 🌱 I’m currently learning **swift, python and c**
+- 💬 Ask me about **python, c#, react, angular, typescript, js, css, scss, php, java and sql**
 
-- 💬 Ask me about **react, angular, typescript, js, css, scss, php, java and sql**
-
-- 📫 How to reach me **juanerpgr@gmail.com**
-
-- ⚡ Fun fact **I started developing software at the age of 16**
+- 📫 How to reach me **juanerpgr@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
