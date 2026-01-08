@@ -1,16 +1,16 @@
 <h1 align="center">👋 ¡Hola! Soy Juan José Eusebi</h1>
 
-<h2 align="center">💻 Técnico Programador Full-Stack</h2>
+<h2>💻 Técnico Programador Full-Stack</h2>
 
-<p align="center">
+<p>
   <strong>Desarrollador con experiencia en diversas áreas tecnológicas.</strong>
 </p>
 
-<p align="center">
+<p>
   Mi especialización principal es el desarrollo front-end, aunque también poseo conocimientos sólidos en tecnologías back-end, lo que me permite desempeñarme eficientemente en roles full-stack.
 </p>
 
-<div align="center">
+<div>
   <a href="https://eusebio.dev" target="_blank" style="font-weight: bold; font-size: 1.1em;">
     🚀 Visita mi portafolio: eusebio.dev
   </a>
