@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Juan José Eusebi</h1>
+<h1 align="center">👋 ¡Hola! Soy Juan José</h1>
 
 <h2>💻 Técnico Programador Full-Stack</h2>
 
